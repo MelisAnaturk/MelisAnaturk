@@ -1,10 +1,5 @@
-### Hi there 👋
-
 <!--
 **MelisAnaturk/MelisAnaturk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +9,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+* :woman_student: Oxford PhD grad.
+* :microscope: Worked in medical data science for 5+ years.
+* :woman_technologist: Coder for 3+ years (R/python/bash).
+* :robot: Passionate about machine learning, healthcare, and big data.
