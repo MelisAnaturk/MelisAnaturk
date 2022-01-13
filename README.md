@@ -12,6 +12,6 @@
 * :woman_student: Oxford PhD grad.
 * :microscope: Worked in medical data science for 5+ years.
 * :woman_technologist: Coder for 3+ years (bash/R/python).
-* :page_facing_up: Author/co-author of 10+ [research articles/preprints](https://scholar.google.com/citations?user=i4vHRigAAAAJ&hl=en). 
+* :page_facing_up: Author/co-author of 10+ [research articles or preprints](https://scholar.google.com/citations?user=i4vHRigAAAAJ&hl=en). 
 * :robot: Passionate about machine learning, healthcare, and big data.
 
